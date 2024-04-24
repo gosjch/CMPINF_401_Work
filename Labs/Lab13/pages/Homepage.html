@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<title>Cipher App</title>
+	</head>
+	<body>
+		<h1>Cipher App</h1>
+		<form>
+			<textarea id="textField" rows="10" cols="50" placeholder="Enter text here..."></textarea><br/><br/>
+			<label for="key">Key: </label>
+			<input id="key" type="number" value=0><br/><br/>
+			<input id="encryptButton" type="button" value="Encrypt">
+			<span> </span>
+			<input id="decryptButton" type="button" value="Decrypt">
+		</form>
+		<script>
+			var textField = document.getElementById("textField");
+			var keyField = document.getElementById("key");
+			
+			function handleEncrypt()
+			{
+				var key = keyField.value;
+				var plaintext = textField.value;
+				var requestData = "" + key + ";" + plaintext;
+				
+				const Http = new XMLHttpRequest();
+				const url = '/encrypt';
+				Http.open("POST", url);
+				Http.send(requestData);
+				
+				Http.onreadystatechange = (e) => {
+				  textField.value = Http.responseText;
+				}
+			}
+			
+			function handleDecrypt()
+			{
+				var key = keyField.value;
+				var ciphertext = textField.value;
+				var requestData = "" + key + ";" + ciphertext;
+				
+				const Http = new XMLHttpRequest();
+				const url = '/decrypt';
+				Http.open("POST", url);
+				Http.send(requestData);
+				
+				Http.onreadystatechange = (e) => {
+				  textField.value = Http.responseText;
+				}
+			}
+			
+			var encryptButton = document.getElementById("encryptButton");
+			var decryptButton = document.getElementById("decryptButton");
+			encryptButton.addEventListener("click", handleEncrypt);
+			decryptButton.addEventListener("click", handleDecrypt);
+			
+		</script>
+	</body>
+</html>

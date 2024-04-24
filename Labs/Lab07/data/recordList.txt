@@ -1,0 +1,3 @@
+Jake,3.0
+Charles,5.0
+Trees,10.0

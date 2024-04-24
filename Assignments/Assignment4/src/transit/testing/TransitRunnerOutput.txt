@@ -1,0 +1,1904 @@
+12:00 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	10 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	4 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards North Hills Station
+	at location (-0.21231881669720307, 0.891739030128253)
+	10 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		1 person on their way to South Side Station
+		4 people on their way to Homestead Station
+		1 person on their way to North Hills Station
+		1 person on their way to Central Station
+		1 person on their way to Allegheny Station
+
+
+=======================================
+12:01 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	10 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	4 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards North Hills Station
+	at location (-0.42463763339440613, 1.783478060256506)
+	10 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		1 person on their way to South Side Station
+		4 people on their way to Homestead Station
+		1 person on their way to North Hills Station
+		1 person on their way to Central Station
+		1 person on their way to Allegheny Station
+
+
+=======================================
+12:02 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	10 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	4 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards North Hills Station
+	at location (-0.6369564500916092, 2.6752170903847587)
+	10 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		1 person on their way to South Side Station
+		4 people on their way to Homestead Station
+		1 person on their way to North Hills Station
+		1 person on their way to Central Station
+		1 person on their way to Allegheny Station
+
+
+=======================================
+12:03 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	10 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	4 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards North Hills Station
+	at location (-0.8492752667888123, 3.566956120513012)
+	10 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		1 person on their way to South Side Station
+		4 people on their way to Homestead Station
+		1 person on their way to North Hills Station
+		1 person on their way to Central Station
+		1 person on their way to Allegheny Station
+
+
+=======================================
+12:04 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	10 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	4 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Currently stopped at North Hills Station
+	at location (-1.0, 4.2)
+	8 seats taken out of 360.
+	PASSENGER SUMMARY:
+		1 person on their way to South Side Station
+		4 people on their way to Homestead Station
+		1 person on their way to North Hills Station
+		1 person on their way to Central Station
+		1 person on their way to Allegheny Station
+
+
+=======================================
+12:05 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	0 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	4 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards Allegheny Station
+	at location (-1.1211500767500997, 3.291374424374252)
+	18 seats taken out of 360.
+	PASSENGER SUMMARY:
+		1 person on their way to South Side Station
+		10 people on their way to Homestead Station
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		1 person on their way to Central Station
+		2 people on their way to Allegheny Station
+
+
+=======================================
+12:06 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	0 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	4 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards Allegheny Station
+	at location (-1.2423001535001994, 2.3827488487485033)
+	18 seats taken out of 360.
+	PASSENGER SUMMARY:
+		1 person on their way to South Side Station
+		10 people on their way to Homestead Station
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		1 person on their way to Central Station
+		2 people on their way to Allegheny Station
+
+
+=======================================
+12:07 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	0 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	4 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards Allegheny Station
+	at location (-1.3634502302502993, 1.4741232731227552)
+	18 seats taken out of 360.
+	PASSENGER SUMMARY:
+		1 person on their way to South Side Station
+		10 people on their way to Homestead Station
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		1 person on their way to Central Station
+		2 people on their way to Allegheny Station
+
+
+=======================================
+12:08 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	0 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	4 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Currently stopped at Allegheny Station
+	at location (-1.4, 1.2)
+	16 seats taken out of 360.
+	PASSENGER SUMMARY:
+		1 person on their way to South Side Station
+		10 people on their way to Homestead Station
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		1 person on their way to Central Station
+
+
+=======================================
+12:09 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #1761244459: North Hills Station
+	0 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	0 passengers waiting.
+	Stop #225602231: Central Station
+	10 passengers waiting.
+	Stop #2132478210: South Side Station
+	4 passengers waiting.
+	Stop #1520354148: Homestead Station
+	1 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #225602231: Central Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	1 passengers waiting.
+	Stop #1761244459: North Hills Station
+	5 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards Central Station
+	at location (-0.7040147811651446, 0.6034412409986954)
+	20 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to South Side Station
+		10 people on their way to Homestead Station
+		3 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		2 people on their way to Central Station
+		1 person on their way to Central Station
+
+
+=======================================
+12:10 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	15 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #1520354148: Homestead Station
+	7 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards Central Station
+	at location (-0.00802956233028947, 0.006882481997390975)
+	20 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to South Side Station
+		10 people on their way to Homestead Station
+		3 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		2 people on their way to Central Station
+		1 person on their way to Central Station
+
+
+=======================================
+12:11 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	15 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #1520354148: Homestead Station
+	7 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Currently stopped at Central Station
+	at location (0.0, 0.0)
+	19 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to South Side Station
+		10 people on their way to Homestead Station
+		3 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		2 people on their way to Central Station
+
+
+=======================================
+12:12 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #1520354148: Homestead Station
+	7 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards South Side Station
+	at location (0.715796408656111, -0.5726371269248889)
+	34 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		12 people on their way to Homestead Station
+		4 people on their way to North Hills Station
+		5 people on their way to South Side Station
+		5 people on their way to Central Station
+		1 person on their way to Central Station
+		1 person on their way to Allegheny Station
+		2 people on their way to Allegheny Station
+
+
+=======================================
+12:13 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #1520354148: Homestead Station
+	7 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards South Side Station
+	at location (1.4315928173122223, -1.1452742538497778)
+	34 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		12 people on their way to Homestead Station
+		4 people on their way to North Hills Station
+		5 people on their way to South Side Station
+		5 people on their way to Central Station
+		1 person on their way to Central Station
+		1 person on their way to Allegheny Station
+		2 people on their way to Allegheny Station
+
+
+=======================================
+12:14 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #2132478210: South Side Station
+	9 passengers waiting.
+	Stop #1520354148: Homestead Station
+	7 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Currently stopped at South Side Station
+	at location (1.5, -1.2)
+	29 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		12 people on their way to Homestead Station
+		4 people on their way to North Hills Station
+		5 people on their way to Central Station
+		1 person on their way to Central Station
+		1 person on their way to Allegheny Station
+		2 people on their way to Allegheny Station
+
+
+=======================================
+12:15 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #2132478210: South Side Station
+	0 passengers waiting.
+	Stop #1520354148: Homestead Station
+	7 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards Homestead Station
+	at location (2.3088235294117645, -1.6313725490196078)
+	38 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		14 people on their way to Homestead Station
+		6 people on their way to North Hills Station
+		6 people on their way to Central Station
+		1 person on their way to Central Station
+		2 people on their way to Central Station
+		1 person on their way to Allegheny Station
+		4 people on their way to Allegheny Station
+
+
+=======================================
+12:16 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #2132478210: South Side Station
+	0 passengers waiting.
+	Stop #1520354148: Homestead Station
+	7 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards Homestead Station
+	at location (3.117647058823529, -2.0627450980392155)
+	38 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		14 people on their way to Homestead Station
+		6 people on their way to North Hills Station
+		6 people on their way to Central Station
+		1 person on their way to Central Station
+		2 people on their way to Central Station
+		1 person on their way to Allegheny Station
+		4 people on their way to Allegheny Station
+
+
+=======================================
+12:17 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #2132478210: South Side Station
+	0 passengers waiting.
+	Stop #1520354148: Homestead Station
+	7 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards Homestead Station
+	at location (3.9264705882352935, -2.494117647058823)
+	38 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		14 people on their way to Homestead Station
+		6 people on their way to North Hills Station
+		6 people on their way to Central Station
+		1 person on their way to Central Station
+		2 people on their way to Central Station
+		1 person on their way to Allegheny Station
+		4 people on their way to Allegheny Station
+
+
+=======================================
+12:18 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #2132478210: South Side Station
+	0 passengers waiting.
+	Stop #1520354148: Homestead Station
+	7 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Currently stopped at Homestead Station
+	at location (4.5, -2.8)
+	24 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		6 people on their way to North Hills Station
+		6 people on their way to Central Station
+		1 person on their way to Central Station
+		2 people on their way to Central Station
+		1 person on their way to Allegheny Station
+		4 people on their way to Allegheny Station
+
+
+=======================================
+12:19 pm
+=======================================
+Metro Route #1: A short route that serves downtown going, roughtly, north to south.
+Stops:
+	Stop #225602231: Central Station
+	9 passengers waiting.
+	Stop #1761244459: North Hills Station
+	8 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #225602231: Central Station
+	0 passengers waiting.
+	Stop #2132478210: South Side Station
+	0 passengers waiting.
+	Stop #1520354148: Homestead Station
+	0 passengers waiting.
+	Stop #2132478210: South Side Station
+	10 passengers waiting.
+	Stop #225602231: Central Station
+	12 passengers waiting.
+	Stop #2030760415: Allegheny Station
+	7 passengers waiting.
+	Stop #1761244459: North Hills Station
+	13 passengers waiting.
+
+Trains:
+	1547912110 (Big Jim) traveling on route #1
+	Moving towards South Side Station
+	at location (3.6911764705882355, -2.3686274509803926)
+	31 seats taken out of 360.
+	PASSENGER SUMMARY:
+		2 people on their way to North Hills Station
+		2 people on their way to South Side Station
+		7 people on their way to North Hills Station
+		6 people on their way to Central Station
+		5 people on their way to Central Station
+		3 people on their way to Central Station
+		2 people on their way to Allegheny Station
+		4 people on their way to Allegheny Station
+
+
+=======================================
+**************************************************************
+STARTING BUS SIMULATION! *************************************
+**************************************************************
+1:00 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	2 passengers waiting.
+	Stop #1114125523: West Oakland
+	1 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1345780376: Bellefield
+	5 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Duquesne
+	at location (0.5, 0.0)
+	3 seats taken out of 35.
+	PASSENGER SUMMARY:
+		2 people on their way to Squirrel Hill
+		1 person on their way to Bellefield
+
+
+=======================================
+1:01 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	2 passengers waiting.
+	Stop #1114125523: West Oakland
+	1 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1345780376: Bellefield
+	5 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Currently stopped at Duquesne
+	at location (0.6, -0.1)
+	3 seats taken out of 35.
+	PASSENGER SUMMARY:
+		2 people on their way to Squirrel Hill
+		1 person on their way to Bellefield
+
+
+=======================================
+1:02 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	0 passengers waiting.
+	Stop #1114125523: West Oakland
+	1 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1345780376: Bellefield
+	5 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards West Oakland
+	at location (1.1, -0.1)
+	5 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Swissvale
+		2 people on their way to Squirrel Hill
+		1 person on their way to Downtown
+		1 person on their way to Bellefield
+
+
+=======================================
+1:03 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	0 passengers waiting.
+	Stop #1114125523: West Oakland
+	1 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1345780376: Bellefield
+	5 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards West Oakland
+	at location (1.6, -0.1)
+	5 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Swissvale
+		2 people on their way to Squirrel Hill
+		1 person on their way to Downtown
+		1 person on their way to Bellefield
+
+
+=======================================
+1:04 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	0 passengers waiting.
+	Stop #1114125523: West Oakland
+	1 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1345780376: Bellefield
+	5 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Currently stopped at West Oakland
+	at location (1.6, 0.0)
+	5 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Swissvale
+		2 people on their way to Squirrel Hill
+		1 person on their way to Downtown
+		1 person on their way to Bellefield
+
+
+=======================================
+1:05 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	0 passengers waiting.
+	Stop #1114125523: West Oakland
+	0 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1345780376: Bellefield
+	5 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Central Oakland
+	at location (2.1, 0.0)
+	6 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Swissvale
+		2 people on their way to Squirrel Hill
+		1 person on their way to Central Oakland
+		1 person on their way to Downtown
+		1 person on their way to Bellefield
+
+
+=======================================
+1:06 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	0 passengers waiting.
+	Stop #1114125523: West Oakland
+	0 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1345780376: Bellefield
+	5 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Currently stopped at Central Oakland
+	at location (2.3, 0.3)
+	5 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Swissvale
+		2 people on their way to Squirrel Hill
+		1 person on their way to Downtown
+		1 person on their way to Bellefield
+
+
+=======================================
+1:07 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	0 passengers waiting.
+	Stop #1114125523: West Oakland
+	0 passengers waiting.
+	Stop #15614375: Central Oakland
+	0 passengers waiting.
+	Stop #1345780376: Bellefield
+	5 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Bellefield
+	at location (2.8, 0.3)
+	8 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Swissvale
+		1 person on their way to Bellefield
+		2 people on their way to Squirrel Hill
+		1 person on their way to Downtown
+		2 people on their way to West Oakland
+		1 person on their way to Bellefield
+
+
+=======================================
+1:08 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	0 passengers waiting.
+	Stop #1114125523: West Oakland
+	0 passengers waiting.
+	Stop #15614375: Central Oakland
+	0 passengers waiting.
+	Stop #1345780376: Bellefield
+	5 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Currently stopped at Bellefield
+	at location (2.8, 0.5)
+	7 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Swissvale
+		2 people on their way to Squirrel Hill
+		1 person on their way to Downtown
+		2 people on their way to West Oakland
+		1 person on their way to Bellefield
+
+
+=======================================
+1:09 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	0 passengers waiting.
+	Stop #1937964294: Duquesne
+	0 passengers waiting.
+	Stop #1114125523: West Oakland
+	0 passengers waiting.
+	Stop #15614375: Central Oakland
+	0 passengers waiting.
+	Stop #1345780376: Bellefield
+	0 passengers waiting.
+	Stop #66859: CMU
+	3 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	3 passengers waiting.
+	Stop #1336633978: Regent Square
+	5 passengers waiting.
+	Stop #653057431: Swissvale
+	5 passengers waiting.
+	Stop #1336633978: Regent Square
+	2 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	4 passengers waiting.
+	Stop #66859: CMU
+	5 passengers waiting.
+	Stop #1345780376: Bellefield
+	4 passengers waiting.
+	Stop #15614375: Central Oakland
+	3 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #1937964294: Duquesne
+	4 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Currently stopped at CMU
+	at location (3.1, 0.5)
+	10 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to CMU
+		1 person on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		2 people on their way to Squirrel Hill
+		1 person on their way to Duquesne
+		1 person on their way to Downtown
+		2 people on their way to West Oakland
+		1 person on their way to Bellefield
+
+
+=======================================
+1:10 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	6 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Squirrel Hill
+	at location (3.6, 0.5)
+	17 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		3 people on their way to CMU
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		2 people on their way to Squirrel Hill
+		1 person on their way to Duquesne
+		1 person on their way to Duquesne
+		1 person on their way to Downtown
+		2 people on their way to West Oakland
+		1 person on their way to Bellefield
+		2 people on their way to West Oakland
+
+
+=======================================
+1:11 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	6 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Squirrel Hill
+	at location (4.1, 0.49999999999999956)
+	17 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		3 people on their way to CMU
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		2 people on their way to Squirrel Hill
+		1 person on their way to Duquesne
+		1 person on their way to Duquesne
+		1 person on their way to Downtown
+		2 people on their way to West Oakland
+		1 person on their way to Bellefield
+		2 people on their way to West Oakland
+
+
+=======================================
+1:12 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	6 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Currently stopped at Squirrel Hill
+	at location (4.1, 0.0)
+	15 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		3 people on their way to CMU
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		1 person on their way to Duquesne
+		1 person on their way to Duquesne
+		1 person on their way to Downtown
+		2 people on their way to West Oakland
+		1 person on their way to Bellefield
+		2 people on their way to West Oakland
+
+
+=======================================
+1:13 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	0 passengers waiting.
+	Stop #1336633978: Regent Square
+	6 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Regent Square
+	at location (4.6, 0.0)
+	21 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		3 people on their way to CMU
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		1 person on their way to Duquesne
+		1 person on their way to Regent Square
+		2 people on their way to Duquesne
+		1 person on their way to Central Oakland
+		1 person on their way to Downtown
+		3 people on their way to West Oakland
+		1 person on their way to Bellefield
+		4 people on their way to West Oakland
+
+
+=======================================
+1:14 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	0 passengers waiting.
+	Stop #1336633978: Regent Square
+	6 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Regent Square
+	at location (5.1, 0.0)
+	21 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		3 people on their way to CMU
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		1 person on their way to Duquesne
+		1 person on their way to Regent Square
+		2 people on their way to Duquesne
+		1 person on their way to Central Oakland
+		1 person on their way to Downtown
+		3 people on their way to West Oakland
+		1 person on their way to Bellefield
+		4 people on their way to West Oakland
+
+
+=======================================
+1:15 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	0 passengers waiting.
+	Stop #1336633978: Regent Square
+	6 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Regent Square
+	at location (5.5, 0.09999999999999964)
+	21 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		3 people on their way to CMU
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		1 person on their way to Duquesne
+		1 person on their way to Regent Square
+		2 people on their way to Duquesne
+		1 person on their way to Central Oakland
+		1 person on their way to Downtown
+		3 people on their way to West Oakland
+		1 person on their way to Bellefield
+		4 people on their way to West Oakland
+
+
+=======================================
+1:16 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	0 passengers waiting.
+	Stop #1336633978: Regent Square
+	6 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Currently stopped at Regent Square
+	at location (5.5, 0.1)
+	21 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		3 people on their way to CMU
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		1 person on their way to Duquesne
+		1 person on their way to Regent Square
+		2 people on their way to Duquesne
+		1 person on their way to Central Oakland
+		1 person on their way to Downtown
+		3 people on their way to West Oakland
+		1 person on their way to Bellefield
+		4 people on their way to West Oakland
+
+
+=======================================
+1:17 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	0 passengers waiting.
+	Stop #1336633978: Regent Square
+	0 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Swissvale
+	at location (6.0, 0.1)
+	27 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		2 people on their way to Duquesne
+		2 people on their way to Duquesne
+		2 people on their way to Bellefield
+		4 people on their way to West Oakland
+		4 people on their way to CMU
+		2 people on their way to Bellefield
+		2 people on their way to Regent Square
+		1 person on their way to Central Oakland
+		1 person on their way to Downtown
+		3 people on their way to West Oakland
+
+
+=======================================
+1:18 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	0 passengers waiting.
+	Stop #1336633978: Regent Square
+	0 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Swissvale
+	at location (6.0, -0.4)
+	27 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		2 people on their way to Duquesne
+		2 people on their way to Duquesne
+		2 people on their way to Bellefield
+		4 people on their way to West Oakland
+		4 people on their way to CMU
+		2 people on their way to Bellefield
+		2 people on their way to Regent Square
+		1 person on their way to Central Oakland
+		1 person on their way to Downtown
+		3 people on their way to West Oakland
+
+
+=======================================
+1:19 pm
+=======================================
+Bus Route #61: An east-west bus route connecting downtown to the eastern suburbs.
+Stops:
+	Stop #1492701780: Downtown
+	1 passengers waiting.
+	Stop #1937964294: Duquesne
+	5 passengers waiting.
+	Stop #1114125523: West Oakland
+	5 passengers waiting.
+	Stop #15614375: Central Oakland
+	4 passengers waiting.
+	Stop #1345780376: Bellefield
+	2 passengers waiting.
+	Stop #66859: CMU
+	0 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	0 passengers waiting.
+	Stop #1336633978: Regent Square
+	0 passengers waiting.
+	Stop #653057431: Swissvale
+	6 passengers waiting.
+	Stop #1336633978: Regent Square
+	7 passengers waiting.
+	Stop #632315224: Squirrel Hill
+	5 passengers waiting.
+	Stop #66859: CMU
+	7 passengers waiting.
+	Stop #1345780376: Bellefield
+	8 passengers waiting.
+	Stop #15614375: Central Oakland
+	8 passengers waiting.
+	Stop #1114125523: West Oakland
+	8 passengers waiting.
+	Stop #1937964294: Duquesne
+	6 passengers waiting.
+
+Buses:
+	Bus 505726953 (Little Ted) traveling on route #61
+	Moving towards Swissvale
+	at location (6.0, -0.9)
+	27 seats taken out of 35.
+	PASSENGER SUMMARY:
+		1 person on their way to Central Oakland
+		2 people on their way to Swissvale
+		1 person on their way to Squirrel Hill
+		2 people on their way to Duquesne
+		2 people on their way to Duquesne
+		2 people on their way to Bellefield
+		4 people on their way to West Oakland
+		4 people on their way to CMU
+		2 people on their way to Bellefield
+		2 people on their way to Regent Square
+		1 person on their way to Central Oakland
+		1 person on their way to Downtown
+		3 people on their way to West Oakland
+
+
+=======================================
